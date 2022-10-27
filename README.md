@@ -1,2 +1,2 @@
 # ZCL_UTILITIES
-Set of utility methods that I've found useful in ABAP development.
+A collection of utilities I've found useful during my SAP ABAP development. Feel free to submit bugs or PRs to make these more useful.
